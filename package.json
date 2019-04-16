@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-inline-json-import",
+  "name": "@forkit/babel-plugin-inline-json-import",
   "version": "0.3.2",
   "description": "Inlines JSON file imports straight into JS code",
   "main": "build/index.js",
@@ -21,14 +21,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yggie/babel-plugin-inline-json-import.git"
+    "url": "git+https://github.com/manrueda/babel-plugin-inline-json-import.git"
   },
   "author": "Bryan Yap",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yggie/babel-plugin-inline-json-import/issues"
+    "url": "https://github.com/manrueda/babel-plugin-inline-json-import/issues"
   },
-  "homepage": "https://github.com/yggie/babel-plugin-inline-json-import#readme",
+  "homepage": "https://github.com/manrueda/babel-plugin-inline-json-import#readme",
   "dependencies": {
     "decache": "^4.5.1"
   }
